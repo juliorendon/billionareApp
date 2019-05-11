@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BillionaireApp</string>
+    <string name="tittle">Soy Billionare!</string>
+    <string name="message1">Eres el Mejor!</string>
+    <string name="message2">Vamos a gastar algo de Dinero :)</string>
+    <string name="message3">Hola Guap@</string>
+    <string name="message4">Fiesta!!!</string>
+    <string name="message5">Modo de Super Dinero Activado!</string>
+    <string name="message6">Sueñalo, Desealo y Compralo YA!</string>
+    <string name="message7">Sueña en Grande, COMPRA en Grande!</string>
+    <string name="message8">No esperes... Hazlo YA!</string>
+    <string name="message9">Vamonos de Compras!</string>
+    <string name="message10">Eres realmente RICO</string>
+    <string name="message11">Vamos a Compar algo Nuevo!</string>
+    <string name="message12">Quiero mas DINERO!</string>
+    <string name="message13">Las mejores cosas de la vida son GRATIS!</string>
+</resources>

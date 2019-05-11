@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BillionaireApp</string>
+    <string name="tittle">I am Billionare!</string>
+    <string name="message1">You are the Best!</string>
+    <string name="message2">Let\'s spend more money :)</string>
+    <string name="message3">Hello Beautiful!</string>
+    <string name="message4">It\'s Party Time!</string>
+    <string name="message5">Super Money mode ON!</string>
+    <string name="message6">Dream it. Wish it. Buy it NOW!</string>
+    <string name="message7">Dream Bigger, BUY Bigger!</string>
+    <string name="message8">Don\'t wait. Do it NOW!</string>
+    <string name="message9">Let\'s Go Shopping!</string>
+    <string name="message10">You are really RICH!</string>
+    <string name="message11">Let\'s buy something new!</string>
+    <string name="message12">I want more MONEY!</string>
+    <string name="message13">The best things in life are FREE!</string>
+</resources>
